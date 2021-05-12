@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "421924272607",
+    "project_id": "fyp-white-night-festival",
+    "storage_bucket": "fyp-white-night-festival.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421924272607:android:5e56d763d97f5aec3bac6a",
+        "android_client_info": {
+          "package_name": "com.example.event"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421924272607-djciior69eapgibcba3873i26g6ifk4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.event",
+            "certificate_hash": "aee2f59b605079ce8b5a4dda76dd7f783916d71e"
+          }
+        },
+        {
+          "client_id": "421924272607-rs2scv3mvtihu688mebea70urvh7m88g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJa5DO4uvecUPIbDkPAjrPhG7ZQpilvhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421924272607-rs2scv3mvtihu688mebea70urvh7m88g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
